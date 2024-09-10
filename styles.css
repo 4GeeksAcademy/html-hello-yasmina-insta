@@ -1,0 +1,80 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.general1{
+    width: 1000px;
+    height: 2500px;
+    background-color: rgb(224, 221, 221);
+    margin:auto;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.h1{
+    text-align: center;
+    background-color: white;
+    width: 1800px;
+    height: 5px;
+}
+.perroflores {
+display: block; 
+background-color: white;
+width: 500px;
+height: 375px;
+margin-top: 50px;
+}
+.perropesas {
+   background-color: white;
+   display: block;
+   width: 500px;
+   height: 375px;
+   margin-top: 50px;
+
+}
+.parrafo1 {
+    display: flex;
+    justify-content: space-between;
+    width: 400px;
+    height: 20px;
+}
+.parrafo2 {
+    display: flex;
+    justify-content: space-between;
+    width: 400px;
+    height: 20px;
+}
+.chica {
+    background-color: white;
+    display: block;
+    width: 500px;
+    height: 375px;
+    margin-top: 50px;
+}
+.parrafo3 {
+    display: flex;
+    justify-content: space-between;
+    width: 400px;
+    height: 20px;
+    
+}
+.comida {
+    background-color: white;
+    display: block;
+    width: 500px;
+    height: 375px;
+    margin-top: 50px;
+}
+.parrafo4 {
+    display: flex;
+    justify-content: space-between;
+    width: 400px;
+    height: 20px;
+}
+img {
+    height: 300px;
+    width: 500px;
+}
+
+    
